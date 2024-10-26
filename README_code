@@ -1,0 +1,43 @@
+--------------------------------------------------
+GENERAL INFORMATION
+--------------------------------------------------
+
+Title: data for the article: Evaluation of the added value of the model grid-spacing on the precipitation phase
+
+Authors:
+
+Olivier Chalifour (Lead author, Corresponding author)
+chalifour.olivier@courrier.uqam.ca
+UQAM
+
+Julie M. Thériault (Co-author)
+theriault.julie@uqam.ca
+UQAM
+
+Biljana Music (Co-author)
+Music.Biljana@ouranos.ca
+Ouranos
+
+Description:
+This dataset contains the observation and simulation data used for the article: Evaluation of the added value of the model grid-spacing on the precipitation phase.
+It contains Observation data from Hydro-Québec hydrometeorological station network, UQAM-PK meteorological station and Site NEIGE foret Monmorency meteorological station.
+The simulation data from the Canadian Regional Climate Model (CRCM6) at 0.11° and 0.0225° grid spacing and the reforematted data for ERA5-Land, CaPA and Daymet are aslo included.
+The data are available for both periode of 2020-10 to 2021-05 and 2021-10 to 2022-05.
+Date of publication:
+Location of the dataset: Montréal, Quebec, Canada
+
+DOI of this dataset: https://doi.org/10.5683/SP3/CEWAG6
+
+Reference of this dataset: Chalifour, Olivier; Julie M. Thériault; Biljana Music, 2024, "Data for the article: Evaluation of the added value of the model grid-spacing on the precipitation phase", https://doi.org/10.5683/SP3/CEWAG6, Borealis, VERSION PROVISOIRE
+--------------------------------------------------
+
+
+
+This part of the repository contains the code for:
+
+
+/code/analysis_code:    The analysis and data visualisation.
+/code/obs_data_formating: The observation formating and the data.
+/code/fct_script:      General function used in the analysis code.
+
+For any question regarding the code or the data, please contact Olivier Chalifour
